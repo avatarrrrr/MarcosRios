@@ -27,10 +27,10 @@
 ### Tools:
 <img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"/>
 <img align="left" alt = "VScode" src="http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/>
-[![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/DiegoSaburi)
-[![github](http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github)](https://github.com/DiegoSaburi)
+<img align="left" alt="Git" src="https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git"/>
+<img align="left" alt="Github" src="http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[![Jupyter](http://img.shields.io/static/v1?label=&message=Jupyter&style=flat&color=white&logo=jupyter)](https://github.com/DiegoSaburi)
+<img align="left" alt="Jupyter" src="http://img.shields.io/static/v1?label=&message=Jupyter&style=flat&color=white&logo=jupyter"/>
 <br />
 <br />
 
