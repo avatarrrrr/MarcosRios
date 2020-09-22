@@ -17,11 +17,11 @@
 
 ### Languages:
 
-<img align="left" alt="python" width="26px" src="https://camo.githubusercontent.com/e6d9e35df1c7b6e809e968004043e74e3f8fa392/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d507974686f6e26636f6c6f723d303033334245267374796c653d666c6174266c6f676f3d507974686f6e">
-<img align="left" alt="Html5" width="26px" src="https://camo.githubusercontent.com/83de218afbe6c75bb1e3f97b8527dfe1904c59f0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d48544d4c26636f6c6f723d394230413030267374796c653d666c6174266c6f676f3d68746d6c35">
-<img align="left" alt="Css3" width="26px" src="https://camo.githubusercontent.com/e689b6620b6bcca949cfba78e0f443aaddd79525/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d43535326636f6c6f723d313537324236267374796c653d666c6174266c6f676f3d63737333">
-<img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/3001599f683ca507d0d4a30d3a0a724e61405a1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3045304530463f267374796c653d666c6174266c6f676f3d43">
-<img align="left" alt="Cpp" width="26px" src="https://camo.githubusercontent.com/957bbc2efde93378e62486888d9d75fce332eb28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3045304530463f7374796c653d666c6174266c6f676f3d432b2b">
+[![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/DiegoSaburi)
+[![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/DiegoSaburi)
+[![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/DiegoSaburi)
+[![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/DiegoSaburi)
+[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/DiegoSaburi)
 <br />
 
 ### Libraries & frameworks:
