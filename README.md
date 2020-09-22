@@ -17,8 +17,6 @@
 ### Languages:
 
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/DiegoSaburi)
-[![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/DiegoSaburi)
-[![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/DiegoSaburi)
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/DiegoSaburi)
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/DiegoSaburi)
 <br />
