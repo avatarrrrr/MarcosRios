@@ -23,12 +23,10 @@
 
 ### Libraries & frameworks:
 [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&style=flat&logo=pandas)](https://github.com/DiegoSaburi)
-<img align="left" alt="Pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png">
-<br />
 
 ### Tools:
-<img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
-[![VSCode](http://img.shields.io/static/v1?label=&message=VSCode&style=flat&color=blue&logo=visual-studio-code)](https://github.com/DiegoSaburi)
+<img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"/>
+<img align="left" alt = "VScode" src="http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/>
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/DiegoSaburi)
 [![github](http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github)](https://github.com/DiegoSaburi)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
