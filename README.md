@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DiegoSaburi | LinkedIn" width="22px" src="https://camo.githubusercontent.com/844acb9ad469ea8c4140fd16989a7d302ec43b9e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d4c696e6b6564496e26636f6c6f723d303037374235267374796c653d666c6174266c6f676f3d6c696e6b6564696e" />][linkedin]
+[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/lucaslima337/)](linkedin)
 
 <br />  
 
