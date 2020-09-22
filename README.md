@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](linkedin)]
+[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-saburi/)
 <br />  
 
 ### Languages:
