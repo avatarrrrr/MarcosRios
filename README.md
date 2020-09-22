@@ -3,7 +3,7 @@
 
 ## I'm a enthusiastic student and learner!
 
-- 🔭 I’m currently working at [TITAN][website]!
+- 🔭 I’m currently working at [<img align="left" alt="Titan" width="26px" src="https://titanci.com.br/img/logo.png">][website]!
 - 🌱 I’m currently learning Data Science (with Python)
 - 👯 I’m looking to collaborate with Open source
 - 🥅 2021 Goals: Learn Artificial Inteligence
@@ -17,7 +17,7 @@
 
 ### Languages:
 
-[<img align="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2Fnoticia%2Flinguagem-de-programacao-python-2-chega-ao-fim-da-vida-com-versao-2-7-18%2F99822&psig=AOvVaw3xRcrnC4rrAy5WEaFJ-WfQ&ust=1600874121676000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjmsP2G_esCFQAAAAAdAAAAABAD">]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]
 [<img align="left" alt="Html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]
 [<img align="left" alt="Css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">]
 
