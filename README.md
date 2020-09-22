@@ -13,12 +13,13 @@
 
 [<img align="left" alt="DiegoSaburi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br />  
 
 ### Languages:
-[<img align="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2Fnoticia%2Flinguagem-de-programacao-python-2-chega-ao-fim-da-vida-com-versao-2-7-18%2F99822&psig=AOvVaw3xRcrnC4rrAy5WEaFJ-WfQ&ust=1600874121676000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjmsP2G_esCFQAAAAAdAAAAABAD" >]
-[ <img align="left" alt="Html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >]
-[ <img align="left" alt="Css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" > ]
+
+[<img align="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2Fnoticia%2Flinguagem-de-programacao-python-2-chega-ao-fim-da-vida-com-versao-2-7-18%2F99822&psig=AOvVaw3xRcrnC4rrAy5WEaFJ-WfQ&ust=1600874121676000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjmsP2G_esCFQAAAAAdAAAAABAD">]
+[<img align="left" alt="Html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]
+[<img align="left" alt="Css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">]
 
 ### Libraries & frameworks:
 
@@ -45,5 +46,5 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/diego-saburi/
-[website] : https://www.titanci.com.br/
-[github] : https://github.com/DiegoSaburi
+[website]:https://www.titanci.com.br/
+[github]: https://github.com/DiegoSaburi
