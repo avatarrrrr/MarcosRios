@@ -3,7 +3,7 @@
 
 ## I'm a enthusiastic student and learner!
 
-- 🔭 I’m currently working at [<img align="left" alt="Titan" width="26px" src="https://titanci.com.br/img/logo.png">][website]!
+- 🔭 I’m currently working at [TITAN][website]!
 - 🌱 I’m currently learning Data Science (with Python)
 - 👯 I’m looking to collaborate with Open source
 - 🥅 2021 Goals: Learn Artificial Inteligence
