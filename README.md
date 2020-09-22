@@ -22,17 +22,17 @@
 <br />
 
 ### Libraries & frameworks:
-
+[![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&style=flat&logo=pandas)](https://github.com/DiegoSaburi)
 <img align="left" alt="Pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png">
 <br />
 
 ### Tools:
 <img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/ac085c0e9ac03411f5e77e2149d1949b0f4a21bb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d47697426636f6c6f723d444230303030267374796c653d666c6174266c6f676f3d676974" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[![VSCode](http://img.shields.io/static/v1?label=&message=VSCode&style=flat&color=blue&logo=visual-studio-code)](https://github.com/DiegoSaburi)
+[![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/DiegoSaburi)
+[![github](http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github)](https://github.com/DiegoSaburi)
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" >
+[![Jupyter](http://img.shields.io/static/v1?label=&message=Jupyter&style=flat&color=white&logo=jupyter)](https://github.com/DiegoSaburi)
 <br />
 <br />
 
