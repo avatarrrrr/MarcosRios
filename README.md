@@ -23,7 +23,7 @@
 
 ### Libraries & frameworks:
 
-[ <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" > ]
+[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png">]
 
 ### Tools:
 [<img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">]
