@@ -42,9 +42,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Saburi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiegoSaburi&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
+  <img align="left" alt="Saburi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiegoSaburi&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaburi&theme=gruvbox)](https://github.com/DiegoSaburi/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaburi&theme=synthwave)](https://github.com/DiegoSaburi/github-readme-stats)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/diego-saburi/
