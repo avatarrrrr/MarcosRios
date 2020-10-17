@@ -42,4 +42,4 @@
 
 <br />
 
-<img align="left" alt="Avatarrrr Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&theme=synthwave"/>
+<img alt="Avatarrrr Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&theme=synthwave"/>
