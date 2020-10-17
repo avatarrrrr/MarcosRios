@@ -38,8 +38,9 @@
 ---
 ### Github Stats
 <br />
-<img align="left" alt="Saburi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avatarrrrr&show_icons=true&hide_border=true&count_private=true&theme=synthwave"/>
+<img alt="Marcos's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avatarrrrr&show_icons=true&hide_border=true&count_private=true&theme=synthwave"/>
 
 <br />
+<br />
 
-<img alt="Avatarrrr Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&theme=synthwave"/>
+<img alt="Marcos's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&theme=synthwave"/>
