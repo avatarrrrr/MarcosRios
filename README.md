@@ -11,35 +11,30 @@
 
 ### Connect with me:
 
-[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/marcosriosaraujo/)
-<br />  
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosriosaraujo/)
 
 ### Languages:
 
-[![Dart](https://img.shields.io/badge/-Dart-blue)](https://github.com/avatarrrrr)
-[![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/avatarrrrr)
-[![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/avatarrrrr)
-[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/avatarrrrr)
-
-<br />
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ### Libraries & frameworks:
-[![Flutter](https://img.shields.io/badge/-Flutter-blue)](https://github.com/avatarrrrr)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Tools:
-<img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"/>
-<img align="left" alt = "VScode" src="http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/>
-<img align="left" alt="Git" src="https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git"/>
-<img align="left" alt="Github" src="http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+[![Selenium](https://img.shields.io/badge/Selenium-%2302569B.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Operational systems:
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ---
-### Github Stats
-<br />
-<img alt="Marcos's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avatarrrrr&show_icons=true&hide_border=true&count_private=true&theme=synthwave"/>
+### Github Stats:
+[![Avatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avatarrrrr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Marcos's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarrrrr&theme=synthwave"/>
