@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [TITAN](https://titanci.com.br/)!
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Open source
-- 🥅 2021 Goals: Master the Flutter
+- 🥅 Goals: Master the Flutter and Dart
 - ⚡ Fun fact: I love read!
 
 ### Connect with me:
