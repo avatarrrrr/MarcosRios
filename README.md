@@ -3,10 +3,10 @@
 
 ## I'm a enthusiastic student and learner!
 
-- 🔭 I’m currently working at [TITAN](https://titanci.com.br/)!
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate with Open source
-- 🥅 Goals: Master the Flutter and Dart
+- 🥅 Goals: Master cleand code and clean architecture
 - ⚡ Fun fact: I love read!
 
 ### Connect with me:
@@ -19,10 +19,15 @@
 [![python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Libraries & frameworks:
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+
 
 ### Tools:
 [![Selenium](https://img.shields.io/badge/Selenium-%2302569B.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
@@ -33,6 +38,9 @@
 
 ### Operational systems:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
+
 
 ---
 ### Github Stats:
